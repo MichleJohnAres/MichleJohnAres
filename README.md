@@ -6,7 +6,7 @@ I'm a self-taught passionate FullStack developer from Canada.
 
 **About me**
 
-- 💼 FullStack Engineer at Razorpay
+- 💼 FullStack Engineer
 
 - 📈 I graduate University of Calgary.
 - 📈 Built Privete prevent Programme(Android), verlyjs and more, **50m+** hits • **50K** stars on GitHub
